@@ -1,6 +1,6 @@
 body {
     font-family: 'Noto Sans', sans-serif;
-    background-color: #f3fff3;
+    background-color: #f3fcff;
 }
 
 .footer .icon-link {
@@ -9,7 +9,7 @@ body {
 }
 
 .footer {
-    background-color: #033012;
+    background-color: #041045;
     color: #f3fff3;
 }
 
@@ -40,7 +40,7 @@ body {
     font-family: 'Google Sans', sans-serif;
 }
 
-.publication-title {}
+
 
 .publication-banner {
     max-height: parent;
@@ -58,6 +58,13 @@ body {
 
 .publication-title {
     font-family: 'Google Sans', sans-serif;
+}
+
+.pubtitle{
+   font-family: 'Google Sans', sans-serif;
+font-size: 2em;
+margin: 10vh 0 0vh 0;
+
 }
 
 .publication-authors {
